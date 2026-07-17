@@ -30,7 +30,7 @@ Estou construindo minha base como desenvolvedor atravÃ©s de **projetos reais** â
         <img 
             alt="(https://imgs.search.brave.com/2aQ3nI0QQeud-lq2AESVls-AymyS56wK29BmEGsOuaM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTYv/MDA2LzYwMy9zbWFs/bC9saW5rZWRpbi1s/b2dvLWljb24tZnJl/ZS1wbmcucG5n)" 
             title="LinkedIn" 
-            src="https://www.linkedin.com/in/gabriel-richardy-souza-soares-figueir%C3%AAdo-340b51350" 
+            src="[https://www.linkedin.com/in/gabriel-richardy-souza-soares-figueir%C3%AAdo-340b51350](https://www.linkedin.com/in/gabriel-richardy-souza-soares-figueir%C3%AAdo-340b51350/)" 
         />
     </a>
     <a href="https://www.instagram.com/gabriel__richardy">
