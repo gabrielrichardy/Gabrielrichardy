@@ -23,30 +23,6 @@ Estou construindo minha base como desenvolvedor através de **projetos reais** �
 
 -----
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabrielrichardy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Linguagens" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielrichardy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
-<br/>
-<br/>
-<br/>
-
------
-
 ### 🔗 Onde me encontrar
 
 <p align="left">
@@ -54,7 +30,7 @@ Estou construindo minha base como desenvolvedor através de **projetos reais** �
         <img 
             alt="(https://imgs.search.brave.com/2aQ3nI0QQeud-lq2AESVls-AymyS56wK29BmEGsOuaM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTYv/MDA2LzYwMy9zbWFs/bC9saW5rZWRpbi1s/b2dvLWljb24tZnJl/ZS1wbmcucG5n)" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-richardy-figueir%C3%AAdo-340b51350/?locale=pt)" 
+            src="https://www.linkedin.com/in/gabriel-richardy-souza-soares-figueir%C3%AAdo-340b51350" 
         />
     </a>
     <a href="https://www.instagram.com/gabriel__richardy">
