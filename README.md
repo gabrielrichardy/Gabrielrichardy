@@ -26,12 +26,13 @@ Estou construindo minha base como desenvolvedor através de **projetos reais** �
 ### 🔗 Onde me encontrar
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/gabriel-richardy-figueiredo">
+        <a href="https://www.linkedin.com/in/gabriel-richardy-figueiredo">
         <img 
-            alt="(https://imgs.search.brave.com/2aQ3nI0QQeud-lq2AESVls-AymyS56wK29BmEGsOuaM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTYv/MDA2LzYwMy9zbWFs/bC9saW5rZWRpbi1s/b2dvLWljb24tZnJl/ZS1wbmcucG5n)" 
+            alt="LinkedIn" 
             title="LinkedIn" 
-            src="[(https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/gabriel-richardy-souza-soares-figueir%C3%AAdo-340b51350/)" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
+    </a>
     </a>
     <a href="https://www.instagram.com/gabriel__richardy">
         <img 
